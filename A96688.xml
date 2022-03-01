@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeale to all Englishmen, to judge between bondage and freedome, sent from those that began to digge upon George Hill in Surrey; but now are carrying on, that publick work upon the little heath in the parish of Cobham, neare unto George Hill, wherein it appeares, that the work of digging upon the commons, is not onely warranted by Scripture, but by the law of the Common-wealth of England likewise.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96688</idno>
+            <idno type="STC">Wing W3039</idno>
+            <idno type="STC">Thomason 669.f.15[23]</idno>
+            <idno type="STC">ESTC R211368</idno>
+            <idno type="EEBO-CITATION">99870098</idno>
+            <idno type="PROQUEST">99870098</idno>
+            <idno type="VID">163098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163098)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeale to all Englishmen, to judge between bondage and freedome, sent from those that began to digge upon George Hill in Surrey; but now are carrying on, that publick work upon the little heath in the parish of Cobham, neare unto George Hill, wherein it appeares, that the work of digging upon the commons, is not onely warranted by Scripture, but by the law of the Common-wealth of England likewise.</title>
+                  <author>Winstanley, Gerrard, b. 1609.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>March. 26. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Jerard Winstanley [and 24 others].</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>In this edition, the first line of title ends "freedome,"; the last line of the first column of text ends "respecter of persons."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163098:1" rendition="simple:additions"/>
+            <head>An Appeale to all Engliſhmen, to judge between Bondage and Freedome,
+ſent from thoſe that began to digge upon George Hill in Surrey; but now are carrying on, that publick work
+upon the little Heath in the Pariſh of COBHAM, neare unto GEORGE Hill, wherein it appeares, that the work of digg<g ref="char:EOLhyphen"/>ing
+upon the Commons, is not onely warranted by Scripture, but by the Law of the Common-wealth of England likewiſe.</head>
+            <p>BEhold, behold, all <hi>Engliſhmen,</hi> The Land of <hi>England</hi> now is your free Inheritance: all <hi>Kingly</hi> and Lordly entanglements are declared againſt, by our <hi>Army</hi> and <hi>Par<g ref="char:EOLhyphen"/>liament.</hi>
+The <hi>Norman</hi> power is beaten in the field, and his head is cut off. And that oppreſſing <hi>Conqueſt</hi> that hath raigned over you by <hi>King</hi> and <hi>Houſe of Lords,</hi> for about
+600. yeares paſt, is now caſt out, by the <hi>Armies</hi> Swords, the <hi>Parliaments</hi> Acts and Lawes, and the <hi>Common-wealths</hi> Engagement.</p>
+            <p>Therefore let not <hi>Sottiſh</hi> covetouſneſſe in the <hi>Gentrey,</hi> deny the poore or younger Brethren, their juſt Freedom to build and plant Corne upon the common waſt
+Land: nor let ſlaviſh fear, poſſeſſe the hearts of the poor, to ſtand in awe of the <hi>Norman</hi> Yoake any longer, ſeeing it is broke. Come, thoſe that are free within, turn your
+Swords into Plough-ſhares, and Speares into pruning-hookes, and take <hi>Plow</hi> and <hi>Spade,</hi> and break up the Common Land, build you Houſes, ſow Corne, and take poſſeſſion of
+your own Land, which you have recovered out of the hands of the <hi>Nonman</hi> oppreſſour.</p>
+            <p>The common Land hath lain unmanured all the dayes of his <hi>Kingly</hi> and <hi>Lordly</hi> power over you, by reaſon whereof, both you and your Fathers, (many of you) have
+been burthened with poverty, And that Land which would have been fruitfull with Corne, hath brought forth nothing but heath, moſſe, furſeys, and the curſe, according to the
+words of the Scriptures: <hi>A fruitful Land is made barren, becauſe of the unrighteouſneſſe of the People that ruled therein, and would not ſuffer it to be planted, becauſe they would keep
+the Poor under bondage, to maintain their own Lordly Power, and conquering covetouſneſſe.</hi>
+            </p>
+            <p>But what hinders you now? will you be ſlaves and beggers ſtill, when you may be Freemen? will you live in ſtraits, and die in poverty, when you may live comfortably? will
+you allwayes make a profeſſion of the words of <hi>Chriſt</hi> and <hi>Scripture:</hi> the ſum whereof is this. <hi>Do as you would be done unto, and live in love?</hi> And now it is come to the point of
+fulfilling that righteous Law: wil you not riſe up &amp; act, I do not mean act by the ſword, for that muſt be left? But come, take <hi>Plow</hi> &amp; <hi>Spade,</hi> build &amp; plant, &amp; make the waſt Land fruit<g ref="char:EOLhyphen"/>full,
+that there may be no begger nor idle perſon among us; for if the waſt Land of <hi>England</hi> were manured by her Children, it would become in a few yeares the richeſt, the
+ſtrongeſt, and flouriſhing Land in the World, and all <hi>Engliſhmen</hi> would live in peace and comfort; And this freedom is hindered by ſuch as yet are full of the <hi>Norman</hi> baſe blood,
+who would be Free men themſelves, but would have all others bond-men and Servants, nay ſlaves to them.</p>
+            <p>The Law of the <hi>Scriptures</hi> gives you a full freedom to the Earth, and makes Man-kind free in all his Members: <hi>for God, or the creating ſpirit, is no reſpector of perſons.</hi>
+            </p>
+            <p>The <hi>Miniſters</hi> who preache up the Law of the <hi>Scriptures,</hi> plead for their Freedom in the Earth, and ſay, <hi>The Labourer is worthy of his hire.</hi> But theſe <hi>Miniſters,</hi> are faul<g ref="char:EOLhyphen"/>ty
+in two things. Firſt, They will ſet themſelves to work, in that they will run before they be ſent, and then force the People by the power of the Sword-Law, to give them wages,
+or Labourers hire. And they will not take 12 <hi>d.</hi> a day as other Labourers have, but they will compell 100 <hi>l.</hi> or more to be paid them yearly. Secondly, They lay claime to Hea<g ref="char:EOLhyphen"/>ven
+after they are dead, and yet they require their Heaven in this World too, and grumble mightily againſt the People that will not give them a large temporal maintenance.
+And yet they tell the poor People, that they muſt be content with their Poverty, and they ſhall have their Heaven hereafter. But why may not we have our Heaven here, (that
+is, a comfortable livelihood in the Earth) And Heaven hereafter too, as well as you, <hi>God is no reſpector of Perſons?</hi>
+            </p>
+            <p>Therefore ſay we, while we have bodies that muſt be fed and cloathed, let us have Earth to plant, to raiſe food and rayment by our labours, according to the Law of our Cre<g ref="char:EOLhyphen"/>ation,
+and let us live like men of your own Image and forme.</p>
+            <p>But if you ſay, that this is onely old <hi>Adams</hi> condition to look after the Earth; but the new <hi>Adam Chriſt,</hi> lookes after Heaven above, and mindes not the Earth. As one pub<g ref="char:EOLhyphen"/>lick
+Miniſter told us, why truly then we ſay, you make old <hi>Adam</hi> who brings in the curſe to be more rational and tender over our bodies; then the ſecond <hi>Adam Chriſt</hi> who
+brings in the bleſſing to all Nations.</p>
+            <p>But if it be old <hi>Adams</hi> condition to deſire a Livelihood as we are men, and to live free from ſtraits: Then I would have all thoſe <hi>Miniſters</hi> to caſt aſide their 100 <hi>l.</hi> or 200 <hi>l.</hi> a
+yeare, and go and beg their food and rayment of others, and expect their Heaven hereafter, as they bid the poor men do.</p>
+            <p>But you covetous blind deceivers, know this, that as old <hi>Adam</hi> brings <hi>Man-kind</hi> into bondage and ſtraits, ſo the ſecond <hi>Adam</hi> brings <hi>Man-kind</hi> into Freedom, plenty and
+peace, here in this Earth while bodies are living upon earth: therefore he is ſaid to be the joy of all Nations here on Earth, and the reſtorer of the whole Creation, that groanes
+under bondage here on Earth.</p>
+            <p>Well <hi>Engliſhmen,</hi> The Law of the <hi>Scriptures,</hi> gives you a free and full Warrant to plant the Earth, and to live comfortably and in love, doing as you would be done by: And
+condemns that covetous <hi>Kingly</hi> and <hi>Lordly</hi> power of darkneſs in men, that makes ſome men ſeeke their freedom in the Earth, and to deny others that freedom. And the <hi>Scriptures</hi>
+do eſtabliſh this Law, to caſt out <hi>Kingly</hi> and <hi>Lordly</hi> ſelf-willed and oppreſſing power, and to make every Nation in the World a free <hi>Common-wealth.</hi> So that you have the <hi>Scrip<g ref="char:EOLhyphen"/>tures</hi>
+to protect you, in making the Earth a common Treaſury, for the comfortable Livelihood of your bodies, while you live upon Earth.</p>
+            <p>Secondly, You have both what the <hi>Army</hi> and <hi>Parliament</hi> have done to protect you, as it will appeare by this graduall conſideration.</p>
+            <p>Firſt, <hi>King Charles</hi> was the ſucceſſour of the <hi>Norman</hi> Conqueſt, and raigned as a Conquerour over <hi>England,</hi> for his Power held the Land from us, and would rather ſee us
+die in poverty, or hang us up, then ſuffer us to plant the <hi>Commons</hi> for our livelihood. And <hi>Lords</hi> of <hi>Mannours</hi> hold claiming to their <hi>Copy-holds,</hi> and to the <hi>Commons,</hi> under or
+from the <hi>King:</hi> ſo that <hi>Kings</hi> and <hi>Lordly</hi> power, is the power of the <hi>Conqueſt</hi> over the people.</p>
+            <p>Secondly, Our <hi>Common-wealths Army</hi> have fought againſt the <hi>Norman</hi> Conqueſt, and have caſt him out, and keepes the field. By vertue of which victory, both the Title of the
+<hi>King,</hi> and the Title of <hi>Lords</hi> of <hi>Mannors</hi> to the Land as <hi>Conquerors</hi> is loſt. And the Land now is as free to others as to them; yea, according to <hi>Davids</hi> Law, to them that ſtaid
+at home with the ſtuffe, as to them that went our to warre: And by this victory, <hi>England</hi> is made a free <hi>Common-wealth.</hi> And the common Land belongs to the younger Brother,
+as the Encloſures to the elder Brother, without reſtraint.</p>
+            <p>Then Thirdly, The <hi>Parliament,</hi> ſince this victory, have made an <hi>Act</hi> or <hi>Law,</hi> to make <hi>England</hi> a free <hi>Common-wealth.</hi> And by this <hi>Act</hi> they have ſet the People free, from <hi>King</hi>
+and <hi>Houſe of Lords</hi> that ruled as <hi>Conquerors</hi> over them, and have aboliſhed their ſelf will and murdering Lawes, with them that made them.</p>
+            <p>Likewiſe they have made another <hi>Act</hi> or <hi>Law,</hi> to caſt out <hi>Kingly</hi> Power, wherein they free the People from yielding obedience to the <hi>King,</hi> or to any that holds claiming under
+the <hi>King:</hi> Now all <hi>Lords</hi> of <hi>Mannours,</hi> Tything Prieſts and imptopriators, hold claiming or Title under the <hi>King,</hi> but by this Act of <hi>Parliament</hi> we are freed from their Power.</p>
+            <p>Then laſtly, The <hi>Parliament</hi> have made an <hi>Engagement,</hi> to maiutain this preſent <hi>Common-wealths</hi> Government, compriſed within thoſe. <hi>Acts</hi> or <hi>Lawes</hi> againſt <hi>King</hi> and <hi>Houſe
+of Lords.</hi> And calles upon all Officers, Tenants, and all ſort of People to ſubſcribe to it, declaring that thoſe that refuſe to ſubſcribe, ſhall have no priviledge in the <hi>Common-wealth</hi>
+of <hi>England,</hi> nor protection from the Law.</p>
+            <p>Now behold all <hi>Engliſhmen,</hi> that by vertue of theſe 2. Lawes, and the <hi>Engagement,</hi> the Tenants of Copyholds, are freed from obedience to their Lords of <hi>Mannors,</hi> and all poor
+People may build upon, and plant the <hi>Commons,</hi> and the <hi>Lords</hi> of <hi>Mannours</hi> break the Lawes of the Land &amp; the <hi>Engagement,</hi> &amp; ſtill uphold the <hi>Kingly</hi> and <hi>Lordly Norman</hi> Power,
+if they hinder them, or ſeek to beat them of from planting the <hi>Commons.</hi>
+            </p>
+            <p>Neither can the <hi>Lords</hi> of <hi>Mannors</hi> compell their Tenants of Copy-holds, to come to their <hi>Court-Barons,</hi> nor to be of their <hi>Juries,</hi> nor take an Oath to be true to them, nor to
+pay fines, Heriots, quit-rent, nor any homage, as formerly, while the King and Lords were in their power. And if the Tenants ſtand up to maintain their Freedom, againſt their
+<hi>Lords</hi> oppreſſing power, the Tenants forfeit nothing, but are protected by the <hi>Laws</hi> and <hi>Engagement</hi> of the Land.</p>
+            <p>And if ſo be, that any poor men build them houſes, and ſow Corne upon the <hi>Commons,</hi> the <hi>Lords</hi> of <hi>Mannors</hi> cannot compell their Tenants to beat them of: And if the Tenants
+refuſe to beat them off, they forfeit nothing, but are protected by the <hi>Lawes</hi> and <hi>Engagement</hi> of the Land. But if ſo be, that any fearfull or covetous Tenant, do obey their <hi>Court-Barons,</hi>
+and will be of their <hi>Jury,</hi> and will ſtill pay Fines, Heriots, quit-Rents, or any homage as formerly, or take new Oaths, to be true to their <hi>Lords,</hi> or at the Command of their
+<hi>Lords,</hi> do beat the poor men off from planting the <hi>Commons;</hi> then they have broke the <hi>Engagement,</hi> and the Law of the Land, and both Lords and Tenants are conſpiring to
+uphold or bring in the <hi>Kingly</hi> and <hi>Lordly</hi> Power again, and declare themſelves enemies to the Army, and to the Parliament, and are traytors to the <hi>Commonwealth</hi> of <hi>England.</hi> And
+if ſo be they are to have no protection of the <hi>Lawes,</hi> that refuſed to tak the <hi>Engagement,</hi> ſurely they have loſt their protection by breaking their <hi>Engagement,</hi> and ſtand lyable to
+anſwer for this their offence, to their great charge and trouble, if any will proſecute againſt them. Therefore you <hi>Engliſh men,</hi> whether Tenants or labouring men, do not enter
+into a new bond of ſlavery, now you are come to the point that you may be free, if you will ſtand up for freedom; for the Army hath purchaſed your freedom. The Parliament
+hath declared for your freedom, and all the Lawes of the <hi>Commonwealth</hi> are your protection, ſo that nothing is wanting on your part, but courage and faithfulneſs, to put thoſe
+Lawes in execution, and to take poſſeſſion of your own Land, which the <hi>Norman</hi> Power took from you, and hath kept from you about 600. yeares, which you have now reco<g ref="char:EOLhyphen"/>vered
+out of his hand. And if any ſay that the old Lawes and Cuſtomes of the Land, are againſt the Tenant and the poor, and intitle the Land onely to the <hi>Lords</hi> of <hi>Mannours</hi>
+ſtill, I anſwer, all the old Lawes are of no force, for they are aboliſhed, when the <hi>King</hi> and <hi>Houſe</hi> of <hi>Lords</hi> were caſt out. And if any ſay, I but the Parl: made an Act to eſtabliſh
+the old Lawes, I anſwer, this was to prevent a ſudden riſing upon the cutting off the <hi>Kings</hi> head; but afterwards they made theſe 2. Lawes, to caſt out <hi>Kingly</hi> Power, and to
+make <hi>England</hi> a <hi>Commonwealth.</hi> And they have confirmed theſe 2. by the <hi>Engagement,</hi> which the People now generally do own and ſubſcribe: therefore by theſe Acts of freedom,
+they have aboliſhed that Act that held up bondage. Well, by theſe you may ſee your freedom, and we hope the <hi>Gentry</hi> hereafter, wil cheat the poor no longer of their Land, and
+we hope, the <hi>Miniſters</hi> hereafter will not tell the poor they have no right to the Land, for now the Land of <hi>England,</hi> is and ought to be a common Treaſury to all <hi>Engliſh<g ref="char:EOLhyphen"/>men,</hi>
+as the ſeverall portions of the Land of <hi>Canaan,</hi> were the common Livelihood to ſuch and ſuch a Tribe; both to elder and younger Brother, without reſpect of perſons. If you de<g ref="char:EOLhyphen"/>ny
+this, you deny the Scriptures. And now we ſhall give you ſome few encouragements out of many, to move you to ſtand up for your freedom in the Land, by acting with
+<hi>Plow</hi> and <hi>Spade</hi> upon the <hi>Commons.</hi>
+            </p>
+            <p>1. By this meanes within a ſhort time, there will be no begger nor idle perſon in <hi>England,</hi> which will be the glory of <hi>England,</hi> and the glory of that Goſpel, which <hi>England</hi> ſeemes to pro<g ref="char:EOLhyphen"/>feſſe
+in words. 2. The waſt and common Land being improve, will bring in plenty of all Commodities, and prevent famine, and pull down the prizes of Corne, to 12 <hi>d.</hi> a Buſhel, or leſſe. 3. It
+will prove <hi>England</hi> to be the firſt of Nations, or the tenth part of the City <hi>Babylon,</hi>
+               <note place="margin">And divers others that were not preſent when this went to the Preſſe.</note> which falls off from the covetous beaſtly Government firſt; and that ſets the Crown of freedom upon Chriſts
+head, to rule over the Nations of the world, and to declare him to be the joy and bleſſing of all Nations. This ſhould move all Governours to ſtrive, who ſhall be the firſt that ſhall caſt down their
+Crownes, Scepters, and Government at Chriſts feete, and they that will not give Chriſt his own glory, ſhall be ſhamed. 4. This Commonwealths freedom, will unite the hearts of <hi>Engliſh<g ref="char:EOLhyphen"/>men</hi>
+together in love ſo that if a forraign enemy endeavour to come in, we ſhall all with joynt conſent riſe up to defend our Inheritance, and ſhall be true one to another. Whereas now, the poor
+ſee, if they fight, and ſhould conquer the Enemy, yet either they or their Children are like to be ſlaves ſtill, for the Gentrey will have all. And this is the cauſe why many run away and faile
+our Armies in the time of need. And ſo through the Gentries hardneſs of heart againſt the poor: The Land may be left to a forraigne enemy for want of the poores love ſticking to them; for
+ſay they, we can as well live under a forraign enemy working for day wages, as under our own brethren, with whom we ought to have equal freedom by the Law of righteouſneſs. 5. This free<g ref="char:EOLhyphen"/>dom
+in planting the common Land, will prevent robbing, ſtealling, and murdering, and Priſons will not ſo mightily be filled with Priſoners; and thereby we ſhall prevent that hart-breaking
+ſpectacle of ſeeing ſo many hanged every Seſſions as there are. And ſurely this impriſoning and hanging of men is the <hi>Norman</hi> power ſtill, and cannot ſtand with the freedom of the Common<g ref="char:EOLhyphen"/>wealth,
+nor warranted by the Engagement; for by the Lawes and Engagement of the Commonwealth, none ought to be hanged, nor put to death for other puniſhments may be found out And
+thoſe that do hang or put to death their fellow <hi>Engliſhmen,</hi> under colour of Lawes, do break the Lawes and the Engagement by ſo doing, and caſts themſelves from under the protection of the
+Commonwealth, and are traytors to <hi>Englands</hi> freedom, and upholders of the Kingly murdering power. 6. This freedom in the common earth, is the poorers right by the Law of Creation and
+equity of the Scriptures, for the earth was not made for a few, but for whole Mankind, for God is no reſpector of Perſons.<note n="*" place="margin">
+                  <p>Now theſe few Con<g ref="char:EOLhyphen"/>ſiderations, we offer to all <hi>England,</hi> and we ap<g ref="char:EOLhyphen"/>peale to the judgement of all rational and righ<g ref="char:EOLhyphen"/>teous men; whether this we ſpeak, be not that ſubſtantiall Truth brought forth into acti<g ref="char:EOLhyphen"/>on, which Miniſters have preached up, and all re<g ref="char:EOLhyphen"/>ligious men have made profeſſion of; for cer<g ref="char:EOLhyphen"/>tainly, God who is the King of righteouſneſs, is not a God of words on<g ref="char:EOLhyphen"/>ly, but of deedes; for it is the badge of hypocri<g ref="char:EOLhyphen"/>ſie, for a man to ſay, and not to do. Therefore we leave this with you all, having peace in our hearts, by declaring faith fully to you, this light that is in us, and which we do not onely ſpeake and write, but which we do eaſily act &amp; practiſe. Likewiſe we write it, as a Letter of congratulati<g ref="char:EOLhyphen"/>on, and encouragement to our dear fellow <hi>Eng<g ref="char:EOLhyphen"/>liſhmen,</hi> that have be<g ref="char:EOLhyphen"/>gun to digge upon the Commons, thereby ta<g ref="char:EOLhyphen"/>king poſſeſſion of their freedom in <hi>Willinborow</hi> in <hi>Northamptonſhire:</hi> And at <hi>CoxHall</hi> in <hi>Kent.</hi> waiting to ſee the chains of flaviſh fear to break and fall off from the hearts of others in other Countries, till at laſt the whole Land is filled with the knowledge &amp; righ<g ref="char:EOLhyphen"/>teouſneſs of the reſto<g ref="char:EOLhyphen"/>ring power, which is <hi>Chriſt</hi> himſelf, <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> ſeed, who will ſpread himſelf til he be<g ref="char:EOLhyphen"/>come the joy of all Na<g ref="char:EOLhyphen"/>tions.</p>
+                  <p>
+                     <list>
+                        <item>Jerard Winſtanley.</item>
+                        <item>Richard Maidley.</item>
+                        <item>Thomas James.</item>
+                        <item>John Dickins.</item>
+                        <item>John Palmer.</item>
+                        <item>John South, <hi>Elder.</hi>
+                        </item>
+                        <item>Nathaniel Helcomb.</item>
+                        <item>Thomas Edcer.</item>
+                        <item>Henry Barton.</item>
+                        <item>John South.</item>
+                        <item>Jacob Heard.</item>
+                        <item>Thomas Barnat.</item>
+                        <item>Anthony Wren.</item>
+                        <item>John Hayman.</item>
+                        <item>William Hitchcock.</item>
+                        <item>Henry Hancocke.</item>
+                        <item>John Batty.</item>
+                        <item>Thomas Starre.</item>
+                        <item>Thomas Adams.</item>
+                        <item>John Coulton.</item>
+                        <item>Thomas South.</item>
+                        <item>Robert Saycar.</item>
+                        <item>Daniel Freland.</item>
+                        <item>Robert Draper.</item>
+                        <item>Robert Coſter.</item>
+                     </list>
+                  </p>
+               </note>
+            </p>
+            <closer>
+               <dateline>
+                  <date>March. 26. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
